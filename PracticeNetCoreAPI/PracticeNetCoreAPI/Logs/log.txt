@@ -1,0 +1,175 @@
+2022-01-02 00:32:35.227 -06:00 [INF] Starting up...
+2022-01-02 00:32:35.611 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 00:32:35.615 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 00:32:35.618 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:32:35.619 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:32:35.621 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:33:01.139 -06:00 [INF] Starting up...
+2022-01-02 00:33:01.509 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 00:33:01.514 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 00:33:01.519 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:33:01.521 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:33:01.522 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:33:13.140 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/weatherforecast - -
+2022-01-02 00:33:13.195 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:33:13.207 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 00:33:13.227 -06:00 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2022-01-02 00:33:13.267 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 51.1945ms
+2022-01-02 00:33:13.272 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:33:13.279 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/weatherforecast - - - 200 - application/json;+charset=utf-8 144.2072ms
+2022-01-02 00:37:10.348 -06:00 [INF] Starting up...
+2022-01-02 00:37:10.667 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 00:37:10.672 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 00:37:10.676 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:37:10.678 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:37:10.679 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:37:30.281 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/weatherforecast - -
+2022-01-02 00:37:30.356 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:37:30.371 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 00:37:30.395 -06:00 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2022-01-02 00:37:30.440 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 56.4581ms
+2022-01-02 00:37:30.447 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:37:30.451 -06:00 [INF] HTTP GET /weatherforecast ({UserId}) responded 200 in 130.2568ms
+2022-01-02 00:37:30.467 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/weatherforecast - - - 200 - application/json;+charset=utf-8 189.3120ms
+2022-01-02 00:47:22.134 -06:00 [INF] Starting up...
+2022-01-02 00:47:22.255 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:47:22.257 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:47:22.259 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:47:22.280 -06:00 [INF] Request starting HTTP/2 GET https://localhost:44335/weatherforecast - -
+2022-01-02 00:47:22.341 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:47:22.349 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 00:47:22.360 -06:00 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2022-01-02 00:47:22.413 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 58.1678ms
+2022-01-02 00:47:22.416 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:47:22.418 -06:00 [INF] HTTP GET /weatherforecast ({UserId}) responded 200 in 104.6580ms
+2022-01-02 00:47:22.436 -06:00 [INF] Request finished HTTP/2 GET https://localhost:44335/weatherforecast - - - 200 - application/json;+charset=utf-8 157.3673ms
+2022-01-02 00:47:22.518 -06:00 [INF] Request starting HTTP/2 GET https://localhost:44335/favicon.ico - -
+2022-01-02 00:47:22.519 -06:00 [INF] HTTP GET /favicon.ico ({UserId}) responded 404 in 0.7524ms
+2022-01-02 00:47:22.524 -06:00 [INF] Request finished HTTP/2 GET https://localhost:44335/favicon.ico - - - 404 - - 6.4782ms
+2022-01-02 00:47:37.275 -06:00 [INF] Starting up...
+2022-01-02 00:47:37.381 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:47:37.383 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:47:37.384 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:47:37.400 -06:00 [INF] Request starting HTTP/2 GET https://localhost:44335/weatherforecast - -
+2022-01-02 00:47:37.456 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:47:37.463 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 00:47:37.474 -06:00 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2022-01-02 00:47:37.516 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 47.5581ms
+2022-01-02 00:47:37.518 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:47:37.520 -06:00 [INF] HTTP GET /weatherforecast ({UserId}) responded 200 in 86.6803ms
+2022-01-02 00:47:37.548 -06:00 [INF] Request finished HTTP/2 GET https://localhost:44335/weatherforecast - - - 200 - application/json;+charset=utf-8 140.6534ms
+2022-01-02 00:47:52.142 -06:00 [INF] Starting up...
+2022-01-02 00:47:52.453 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 00:47:52.463 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 00:47:52.469 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:47:52.471 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:47:52.474 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:47:58.578 -06:00 [INF] Starting up...
+2022-01-02 00:47:58.880 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 00:47:58.884 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 00:47:58.890 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:47:58.892 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:47:58.894 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:48:04.405 -06:00 [INF] Starting up...
+2022-01-02 00:48:04.784 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 00:48:04.789 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 00:48:04.794 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:48:04.796 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:48:04.798 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:48:18.704 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/weatherforecast - -
+2022-01-02 00:48:18.756 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:48:18.768 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 00:48:18.790 -06:00 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2022-01-02 00:48:18.831 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 53.6535ms
+2022-01-02 00:48:18.838 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:48:18.842 -06:00 [INF] HTTP GET /weatherforecast ({UserId}) responded 200 in 105.2683ms
+2022-01-02 00:48:18.852 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/weatherforecast - - - 200 - application/json;+charset=utf-8 151.5038ms
+2022-01-02 00:59:16.935 -06:00 [INF] Starting up...
+2022-01-02 00:59:17.223 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 00:59:17.229 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 00:59:17.234 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 00:59:17.236 -06:00 [INF] Hosting environment: Development
+2022-01-02 00:59:17.237 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 00:59:33.621 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/weatherforecast - -
+2022-01-02 00:59:33.695 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:59:33.716 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 00:59:33.734 -06:00 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2022-01-02 00:59:33.769 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 45.2503ms
+2022-01-02 00:59:33.775 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 00:59:33.779 -06:00 [INF] HTTP GET /weatherforecast ({UserId}) responded 200 in 122.3552ms
+2022-01-02 00:59:33.788 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/weatherforecast - - - 200 - application/json;+charset=utf-8 170.8719ms
+2022-01-02 01:07:14.308 -06:00 [INF] Starting up...
+2022-01-02 01:07:14.635 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 01:07:14.640 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 01:07:14.644 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 01:07:14.646 -06:00 [INF] Hosting environment: Development
+2022-01-02 01:07:14.647 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 01:07:23.857 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/weatherforecast - -
+2022-01-02 01:07:23.919 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 01:07:23.935 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 01:07:23.941 -06:00 [WRN] Entered
+2022-01-02 01:07:23.947 -06:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2022-01-02 01:07:23.956 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 13.1495ms
+2022-01-02 01:07:23.961 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 01:07:23.966 -06:00 [INF] HTTP GET /weatherforecast ({UserId}) responded 200 in 72.1590ms
+2022-01-02 01:07:23.994 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/weatherforecast - - - 200 0 - 139.2800ms
+2022-01-02 01:17:30.696 -06:00 [INF] Starting up...
+2022-01-02 01:17:31.111 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 01:17:31.115 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 01:17:31.119 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 01:17:31.120 -06:00 [INF] Hosting environment: Development
+2022-01-02 01:17:31.122 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 01:17:34.740 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/weatherforecast - -
+2022-01-02 01:17:34.798 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 01:17:34.810 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 01:17:34.831 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 13.2187ms
+2022-01-02 01:17:34.850 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 01:17:34.861 -06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'PracticeNetCoreAPI.Controllers.WeatherForecastController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-01-02 01:17:35.266 -06:00 [ERR] HTTP GET /weatherforecast ({UserId}) responded 500 in 492.5660ms
+2022-01-02 01:17:35.416 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/weatherforecast - - - 500 - text/html;+charset=utf-8 678.1394ms
+2022-01-02 01:17:35.435 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/_framework/aspnetcore-browser-refresh.js - -
+2022-01-02 01:17:35.453 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/_framework/aspnetcore-browser-refresh.js - - - 200 11952 application/javascript;+charset=utf-8 17.8384ms
+2022-01-02 01:22:34.400 -06:00 [INF] Starting up...
+2022-01-02 01:22:34.689 -06:00 [INF] Now listening on: https://localhost:7108
+2022-01-02 01:22:34.694 -06:00 [INF] Now listening on: http://localhost:5108
+2022-01-02 01:22:34.700 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-02 01:22:34.703 -06:00 [INF] Hosting environment: Development
+2022-01-02 01:22:34.706 -06:00 [INF] Content root path: C:\Users\jg\source\repos\PracticeNetCoreAPI\PracticeNetCoreAPI\
+2022-01-02 01:22:46.367 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/weatherforecast - -
+2022-01-02 01:22:46.420 -06:00 [INF] Executing endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 01:22:46.432 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller PracticeNetCoreAPI.Controllers.WeatherForecastController (PracticeNetCoreAPI).
+2022-01-02 01:22:46.443 -06:00 [INF] Executed action PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI) in 2.2269ms
+2022-01-02 01:22:46.450 -06:00 [INF] Executed endpoint 'PracticeNetCoreAPI.Controllers.WeatherForecastController.Get (PracticeNetCoreAPI)'
+2022-01-02 01:22:46.454 -06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'PracticeNetCoreAPI.Controllers.WeatherForecastController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-01-02 01:22:46.592 -06:00 [ERR] HTTP GET /weatherforecast ({UserId}) responded 500 in 191.7972ms
+2022-01-02 01:22:46.628 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/weatherforecast - - - 500 - text/html;+charset=utf-8 266.0700ms
+2022-01-02 01:22:46.662 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7108/_framework/aspnetcore-browser-refresh.js - -
+2022-01-02 01:22:46.670 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7108/_framework/aspnetcore-browser-refresh.js - - - 200 11952 application/javascript;+charset=utf-8 7.2105ms
