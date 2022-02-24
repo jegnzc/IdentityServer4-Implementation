@@ -130,10 +130,10 @@ namespace IdentityServerHost.Quickstart.UI
 
                 // Store Gender as Claim
 
-                var result = await _userManager.CreateAsync(testUser, "P467dffodama@");
+                //var result = await _userManager.CreateAsync(testUser, "P467dffodama@");
                 var newAddedUser = await _userManager.FindByNameAsync(testUser.UserName);
-                await _userManager.AddClaimAsync(newAddedUser, new Claim(JwtClaimTypes.Email, "testemail@scottbrady91.com"));
-                await _userManager.AddClaimAsync(newAddedUser, new Claim(JwtClaimTypes.Role, "admin"));
+                //await _userManager.AddClaimAsync(newAddedUser, new Claim(JwtClaimTypes.Email, "testemail@scottbrady91.com"));
+                //await _userManager.AddClaimAsync(newAddedUser, new Claim(JwtClaimTypes.Role, "admin"));
 
                 #endregion tests
 
